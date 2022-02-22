@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="title">Calculator</string>
+    <string name="txt_number1">Number 1</string>
+    <string name="txt_number2">Number 2</string>
+    <string name="txt_result">Result</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_multi">X</string>
+    <string name="btn_divide">/</string>
+
+</resources>
